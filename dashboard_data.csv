@@ -1,0 +1,13 @@
+name,start_time,finish_time,location,latitude,longitude,timezone,utc_offset,utc_offset_dst
+Monkey D. Luffy,9:00,17:00,"Columbus, OH, USA",39.9622601,-83.0007065,America/New_York,-5,-4
+Roronoa Zoro,10:00,18:00,"Boston, MA, USA",42.3554334,-71.060511,America/New_York,-5,-4
+Tony Tony Chopper,9:00,17:00,"San Diego, CA, USA",32.7174202,-117.1627728,America/Los_Angeles,-8,-7
+Naruto Uzumaki,9:00,17:00,"Sydney, Australia",-33.8698439,151.2082848,Australia/Sydney,10,11
+Sasuke Uchina,9:00,17:00,"Okinawa City, Japan",34.6634288,135.5032721,Asia/Tokyo,9,9
+Rock Lee,9:00,17:00,"Tokyo, Japan",35.6812665,139.757653,Asia/Tokyo,9,9
+Thierry Henry,9:00,17:00,"Manchester, UK",53.4794892,-2.2451148,Europe/London,0,1
+Bukayo Saka,9:00,17:00,"London, UK",51.5073359,-0.12765,Europe/London,0,1
+Arsene Wenger,9:00,17:00,"Berlin, Germany",52.5170365,13.3888599,Europe/Berlin,1,2
+Gennady Golovkin,12:00,20:00,"Almaty, Kazakhstan",43.2363924,76.9457275,Asia/Almaty,6,6
+Glover Teixeira,8:00,16:00,"Bethel, CT, USA",41.372643,-73.412668,America/New_York,-5,-4
+Manny Pacquiao,8:00,16:00,"Manila, Philippines",14.5948914,120.9782618,Asia/Manila,8,8
